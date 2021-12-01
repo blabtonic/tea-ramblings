@@ -1,6 +1,5 @@
 // @flow strict
 import React from 'react';
-import Switch from 'react-switch';
 import { Link } from 'gatsby';
 import Author from './Author';
 import Comments from './Comments';
@@ -21,14 +20,6 @@ const Post = ({ post }: Props) => {
 
   return (
     <div className={styles['post']}>
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'flex-end',
-        }}
-      >
-        <Switch onChange={() => {}} />
-      </div>
       <Link className={styles['post__home-button']} to="/">
         All Articles
       </Link>
