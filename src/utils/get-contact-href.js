@@ -48,6 +48,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'medium':
       href = `https://medium.com/${contact}`;
       break;
+    case 'twitch':
+      href = `https://twitch.tv/${contact}`;
+      break;
     default:
       href = contact;
       break;

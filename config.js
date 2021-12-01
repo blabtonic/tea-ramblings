@@ -25,16 +25,17 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Trystan Hendricks',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A Software Developer that loves to break things',
     contacts: {
-      email: '',
+      email: 'thendricks@fastmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '',
+      twitch: '#',
       vkontakte: '',
       linkedin: '#',
       instagram: '#',
