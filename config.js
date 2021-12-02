@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'DevBlog',
+  subtitle: 'Learning and ramblings.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,18 +27,17 @@ module.exports = {
   author: {
     name: 'Trystan Hendricks',
     photo: '/photo.jpg',
-    bio: 'A Software Developer that loves to break things',
+    bio: 'A Software Developer that loves to break things (and fix them back of course)',
     contacts: {
       email: 'thendricks@fastmail.com',
-      facebook: '#',
+      facebook: '',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'jugnificent_',
+      github: 'blabtonic',
       rss: '',
-      twitch: '#',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
@@ -46,6 +45,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '',
+      twitch: 'yo_juggy',
     }
   }
 };
