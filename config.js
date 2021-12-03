@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'DevBlog',
-  subtitle: 'Learning and ramblings.',
+  subtitle: 'Decentralization is key.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Trystan Hendricks',
+    name: 'Trystan',
     photo: '/photo.jpg',
     bio: 'A Software Developer that loves to break things (and fix them back of course)',
     contacts: {
