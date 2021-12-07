@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'DevBlog',
+  title: 'Tea and Ramblings',
   subtitle: 'Decentralization is key.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
