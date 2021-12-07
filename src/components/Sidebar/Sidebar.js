@@ -22,6 +22,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
+        Feel free to donate to my Ethereum:
         <img src={Barcode} />
       </div>
     </div>

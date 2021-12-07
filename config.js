@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Trystan',
+    name: 'Trystan Hendricks',
     photo: '/photo.jpg',
     bio: 'A Software Developer that loves to break things (and fix them back of course)',
     contacts: {
