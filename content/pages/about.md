@@ -10,3 +10,5 @@ template: "page"
 - Can be seen streaming old japanese murder mystery show: Furuhata Ninzaburo
 
 - Really enjoys honey
+
+- Also enjoys decentralization
