@@ -31,12 +31,12 @@ module.exports = {
     contacts: {
       email: 'thendricks@fastmail.com',
       facebook: '',
-      telegram: '#',
+      telegram: '',
       twitter: 'jugnificent_',
       github: 'blabtonic',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'trystan-h-b7297682',
       instagram: '',
       line: '',
       gitlab: '',
@@ -46,6 +46,7 @@ module.exports = {
       soundcloud: '',
       medium: '',
       twitch: 'yo_juggy',
+      itch: 'blabtonic',
     }
   }
 };

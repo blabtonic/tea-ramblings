@@ -51,6 +51,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'twitch':
       href = `https://twitch.tv/${contact}`;
       break;
+    case 'itch':
+      href = `https://${contact}.itch.io/`;
+      break;
     default:
       href = contact;
       break;

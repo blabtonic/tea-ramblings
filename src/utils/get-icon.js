@@ -56,6 +56,9 @@ const getIcon = (name: string) => {
     case 'twitch':
       icon = ICONS.TWITCH;
       break;
+    case 'itch':
+      icon = ICONS.ITCH;
+      break;
     default:
       icon = {};
       break;

@@ -29,6 +29,7 @@ const useSiteMetadata = () => {
                 soundcloud
                 medium
                 twitch
+                itch
               }
             }
             menu {

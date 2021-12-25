@@ -6,7 +6,6 @@ import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
-import Barcode from './Barcode.svg';
 
 type Props = {
   isIndex?: boolean,
@@ -22,8 +21,6 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
-        Feel free to donate to my Ethereum:
-        <img src={Barcode} />
       </div>
     </div>
   );
