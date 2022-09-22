@@ -46,7 +46,7 @@ module.exports = {
       soundcloud: '',
       medium: '',
       twitch: 'yo_juggy',
-      itch: 'blabtonic',
+      itch: 'yo-juggy',
     }
   }
 };
